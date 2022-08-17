@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-* [General Info](#Problem statement)
+* [General Info](#Problem-statement)
 * [Contributors](#Contributors)
 
 <!-- You can include any other section that is pertinent to your problem -->
